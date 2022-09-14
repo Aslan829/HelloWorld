@@ -15,8 +15,6 @@ When the Python file is run, it will print the text phrase "Hello Rexburg".
 
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Git Download Website](https://git-scm.com/download/win)
 * [Python Download Website](https://www.python.org/downloads/)
 
