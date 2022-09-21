@@ -6,7 +6,7 @@ When the Python file is run, it will print the text phrase "Hello Rexburg".
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/tUm5dbDRAFU)
 
 # Development Environment
 * Python 3.10.1
